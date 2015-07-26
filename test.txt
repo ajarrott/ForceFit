@@ -1,0 +1,51 @@
+List of QM files:
+
+
+QM software used to create these files:
+
+
+Guess parameters for force field:
+
+
+MD simulations software to be used during the fit:
+
+
+For Dl_Poly provide path to Control:
+
+
+For Dl_Poly provide path to Field:
+
+
+For Dl_poly provide path to Dl_Poly executable:
+
+
+For Lammps provide path to Input:
+
+
+For Lammps provide path to Data:
+
+
+For Lammps provide path to Lammps executable:
+
+
+For Tinker provide path to XYZ Template:
+
+
+For Tinker provide path to PRM:
+
+
+For Tinker provide path to Key:
+
+
+For Tinker provide path to Tinker executable:
+
+
+Are forces to be used in fitting:
+
+
+Are energies to be used in fitting:
+
+
+Step size:
+
+
